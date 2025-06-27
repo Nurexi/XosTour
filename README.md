@@ -6,7 +6,7 @@
 
 <h3 align="center">
   🎓 A Software Engineering Student 
-</h3>
+</h3> 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=5,18,22&height=120&section=header&text=Welcome%20to%20My%20Profile!&fontSize=28&fontColor=fff&animation=twinkling&fontAlignY=40" />
