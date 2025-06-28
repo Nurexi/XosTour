@@ -1,11 +1,10 @@
- 
 <h2 align="center">          
       
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" alt="waving hand">Hi there, I'm <strong>Nuredin Seid</strong> 🌟
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" alt="waving hand">Hi there, I'm <strong>Nuredin Seid</strong> 
 </h2>
  
 <h3 align="center">
-  🎓 A Software Engineering Student 
+  🎓 Software Engineering Student 
 </h3> 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 <p align="center">
@@ -14,7 +13,7 @@
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6F3AFF&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Open-Source+Contributor;Tech+Enthusiast;Problem+Solver" alt="Typing SVG" /></a>
   
-</p> 
+</p>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Nurexi&label=Profile%20views&color=6F3AFF&style=flat" alt="Profile Views" />
@@ -42,9 +41,7 @@
 
 <hr />
 
-
-
-<h2>🌐 Reach out to me:</h2> 
+<h2>🌐 Reach out to me:</h2>
 
 <p align="left">
   </a>
@@ -56,7 +53,6 @@
    <a href="https://www.facebook.com/nurexos" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
   </a>
-
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -147,7 +143,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nurexi&theme=aura&hide_border=true&background=0D1117&ring=6F3AFF&fire=FF5C00&currStreakLabel=E4B1FF&sideLabels=C3B1E1" alt="Nurexi's GitHub Streak" />
 </p>
 
-<h2>🏆 GitHub Trophies</h2> 
+<h2>🏆 GitHub Trophies</h2>
 
 <div align="center">
   
@@ -157,12 +153,11 @@
 
 <br>
 
-
 </div>
 
 <br>
 
-<h2><center>📈 Contribution Graph</center></h2> 
+<h2><center>📈 Contribution Graph</center></h2>
 
 <div align="center">
   
